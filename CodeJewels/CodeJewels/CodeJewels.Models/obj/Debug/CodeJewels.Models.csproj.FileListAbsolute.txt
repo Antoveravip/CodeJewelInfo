@@ -1,0 +1,5 @@
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Models\bin\Debug\CodeJewels.Models.dll
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Models\bin\Debug\CodeJewels.Models.pdb
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Models\obj\Debug\CodeJewels.Models.csprojResolveAssemblyReference.cache
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Models\obj\Debug\CodeJewels.Models.dll
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Models\obj\Debug\CodeJewels.Models.pdb

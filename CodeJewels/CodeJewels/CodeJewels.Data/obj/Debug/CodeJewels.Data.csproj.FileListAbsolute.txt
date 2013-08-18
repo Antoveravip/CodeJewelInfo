@@ -1,0 +1,10 @@
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\bin\Debug\CodeJewels.Data.dll.config
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\bin\Debug\CodeJewels.Data.dll
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\bin\Debug\CodeJewels.Data.pdb
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\bin\Debug\CodeJewels.Models.dll
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\bin\Debug\EntityFramework.dll
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\bin\Debug\CodeJewels.Models.pdb
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\bin\Debug\EntityFramework.xml
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\obj\Debug\CodeJewels.Data.csprojResolveAssemblyReference.cache
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\obj\Debug\CodeJewels.Data.dll
+D:\GitHub\CodeJewelInfo\CodeJewels\CodeJewels\CodeJewels.Data\obj\Debug\CodeJewels.Data.pdb
